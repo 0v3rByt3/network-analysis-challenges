@@ -17,7 +17,7 @@ Hint 2: Follow the streams
                  Flag Flag
                  flag flag
                  
-5. Repeat step 4 until you get the proper format of the flag.
+5. Repeat step 3 until you get the proper format of the flag.
 Hint 1: Make sure the file extension is correct
 
 
