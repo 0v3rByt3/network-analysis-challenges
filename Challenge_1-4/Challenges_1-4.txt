@@ -1,4 +1,4 @@
-1. Find the clear text password. 
+1. Find the clear text flag. 
 Hint 1: The password is in form "CC{}". 
 Hint 2: The look in HTTP traffic
 Hint 3: Decrypt the flag contents (The contents are in hex)
