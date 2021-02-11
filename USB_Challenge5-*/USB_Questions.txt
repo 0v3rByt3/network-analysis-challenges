@@ -5,7 +5,7 @@ Hint 3: inside the packet look under the DEVICE DESCRIPTOR tab
 Hint 4: https://www.beyondlogic.org/usbnutshell/usb5.shtml
 
 2. What is the USB Specification Number that the Flash Drive is Plugged into?
-Hint 1: Same frame number and question one 
+Hint 1: Same frame number as question one 
 
 3. What is the Flash Drives Language Id?
 Hint 1: Frame No. Less Than 120
