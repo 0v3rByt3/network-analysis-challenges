@@ -1,10 +1,16 @@
 1. Find the clear text password. 
+Hint 1: The password is in form "CC{}". 
+Hint 2: The look in HTTP traffic
+Hint 3: Decrypt the flag contents (The contents are in hex)
 
-2. Decrypt TLS 1.3 traffic. 
-
-3. Download the image.
+2. Decrypt TLS 1.3 traffic and download the image. 
+Hint 1: Use the flag from task 1 to unzip the sslkeylog.zip
+Hint 2: Look in my resources from the video for information on WireShark and TLS 
+Hint 3: Export the image
 
 4. Download the file transfered over FTP.
+Hint 1: The port used is not a standardized port. This means WireShark can not tell its FTP.
+Hint 2: Follow the streams 
 
 5. Verify the contents of the file is the following:
                  
@@ -12,5 +18,6 @@
                  flag flag
                  
 6. Repeat step 4 until you get the proper format of the flag.
+Hint 1: Make sure the file extension is correct
 
 
