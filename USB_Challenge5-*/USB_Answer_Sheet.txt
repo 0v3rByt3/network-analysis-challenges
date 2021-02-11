@@ -1,0 +1,17 @@
+1. Frame No. 91 
+   Vendor  = idVendor: Innostor Technology Corporation (0x1f75)
+   Product = idProduct: IS918 Flash Drive (0x0918)
+   Device Version Number = bcdDevice: 0x0310 = USB 3.1
+   
+2. Frame No. 91
+   USB Specification Number = bcdUSB: 0x0310 = USB 3.1
+
+3. Frame No. 106
+    Language Id: English (United States) (0x0409)
+    
+4. Frame No. *
+    Interface id = 0 
+    Interface Name = usbmon2
+    
+5. Frame No. 465
+   Answer = Security Onion 

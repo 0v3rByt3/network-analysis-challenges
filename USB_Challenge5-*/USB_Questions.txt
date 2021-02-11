@@ -1,0 +1,23 @@
+1. What Vendor, Product, and Device Version Number is my Flash Drive?
+Hint 1: The frame number you are looking for is less than 100
+Hint 2: GET DESCRIPTOR Response DEVICE 
+Hint 3: inside the packet look under the DEVICE DESCRIPTOR tab
+Hint 4: https://www.beyondlogic.org/usbnutshell/usb5.shtml
+
+2. What is the USB Specification Number that the Flash Drive is Plugged into?
+Hint 1: Same frame number and question one 
+
+3. What is the Flash Drives Language Id?
+Hint 1: Frame No. Less Than 120
+Hint 2: ""
+Hint 3: char pointer
+Hint 4: char array 
+
+4. What Interface ID && Name were these packets captured on?
+Hint 1: Any Frame No. 
+Hint 2: Look Under Frame
+
+5. What Linux Disto Is On This Flash Drive?
+Hint 0: https://en.wikipedia.org/wiki/Logical_unit_number
+Hint 1: SCSI > 20000
+Hint 2: Frame No. > 300 && Frame No. < 500

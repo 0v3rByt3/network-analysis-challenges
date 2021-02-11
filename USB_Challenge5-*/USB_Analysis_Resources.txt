@@ -1,0 +1,8 @@
+USB Descriptors:
+https://www.beyondlogic.org/usbnutshell/usb5.shtml
+
+USB The Setup Packet:
+https://www.beyondlogic.org/usbnutshell/usb6.shtml
+
+Windows USB Devlopers Guide:(When in doubt RTFM)
+https://docs.microsoft.com/en-us/windows-hardware/drivers/usbcon/
