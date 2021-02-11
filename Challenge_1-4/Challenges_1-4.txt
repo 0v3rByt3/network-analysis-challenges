@@ -8,16 +8,16 @@ Hint 1: Use the flag from task 1 to unzip the sslkeylog.zip
 Hint 2: Look in my resources from the video for information on WireShark and TLS 
 Hint 3: Export the image
 
-4. Download the file transfered over FTP.
+3. Download the file transfered over FTP.
 Hint 1: The port used is not a standardized port. This means WireShark can not tell its FTP.
 Hint 2: Follow the streams 
 
-5. Verify the contents of the file is the following:
+4. Verify the contents of the file is the following:
                  
                  Flag Flag
                  flag flag
                  
-6. Repeat step 4 until you get the proper format of the flag.
+5. Repeat step 4 until you get the proper format of the flag.
 Hint 1: Make sure the file extension is correct
 
 
