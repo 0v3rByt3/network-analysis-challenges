@@ -1,6 +1,6 @@
 1. Find the clear text flag. 
 Hint 1: The flag is in form "CC{}". 
-Hint 2: The look in HTTP traffic
+Hint 2: look in HTTP traffic
 Hint 3: Decrypt the flag contents (The contents are in hex)
 
 2. Decrypt TLS 1.3 traffic and download the image. 
